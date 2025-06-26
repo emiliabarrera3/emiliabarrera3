@@ -1,16 +1,26 @@
-## Hi there 👋
+#  ¡Hola! Soy Emilia
 
-<!--
-**emiliabarrera3/emiliabarrera3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de programación full stack. Me encanta aprender cosas nuevas, trabajar en equipo y crecer en el mundo de la tecnología y el desarrollo de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mí
+
+- 🎓 Estudiando dos carreras: Tecnicatura Superior en Marketing Digital y Tecnicatura Universitaria en Programación Full Stack.
+- 🌱 Actualmente aprendiendo Python.
+- 💬 Me interesa charlar sobre: tecnología, diseño, accesibilidad, comunidad, marketing, publicidad
+- 📫 Podés contactarme: emiliabarreralanatti@gmail.com o https://www.linkedin.com/in/emilia-barrera-lanatti-a5b552272/.
+
+
+---
+
+##  En progreso
+
+Estoy trabajando en mejorar mis habilidades en:
+- Desarrollo web con Python
+- Versionado de código con Git
+- Participar en proyectos colaborativos
+
+
+---
+
